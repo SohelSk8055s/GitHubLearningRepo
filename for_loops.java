@@ -5,3 +5,5 @@ for(int i = 1;i <= 10;i++){
 System.out.println("done with loops");
 
 System.out.println("What about while loops");
+
+System.out.println("a new start in loops");
